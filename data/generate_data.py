@@ -31,7 +31,9 @@ if sys.stdout.encoding.lower() != 'utf-8':
     except Exception:
         pass
 
-np.random.seed(42)
+# Dynamic seed: can be overridden via DATA_SEED env var, or uses random seed on each run
+seed = int(os.environ.get('DATA_SEED', np.random.randint(1, 10000)))
+np.random.seed(seed)
 
 OUTPUT_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data', 'raw')
 os.makedirs(OUTPUT_DIR, exist_ok=True)
