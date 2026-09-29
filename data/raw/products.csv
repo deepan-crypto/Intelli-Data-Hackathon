@@ -1,0 +1,48 @@
+product_id,category,sub_category,brand,mrp,cost_price,shelf_life_days,supplier_id
+P101,DAIRY,Milk,Aavin,60,52,3,SUP01
+P102,DAIRY,Curd,Aavin,45,38,5,SUP01
+P103,DAIRY,Paneer,Amul,95,72,7,SUP01
+P104,Dairy,Butter,Amul,55,42,30,SUP01
+P105,DAIRY,Cheese,Britannia,120,85,60,SUP01
+P106,Dairy,Yogurt,Epigamia,40,28,14,SUP01
+P201,Beverages,Soft Drink,FizzUp,40,28,180,SUP02
+P202,Beverages,Juice,Tropicana,85,62,120,SUP02
+P203,Beverages,Water,Bisleri,20,12,365,SUP02
+P204,Beverages,Tea,TajMahal,180,135,365,SUP03
+P205,Personal Care,Shampoo,GlowCare,120,79,730,SUP08
+P206,beverage,Coffee,Nescafe,210,155,365,SUP03
+P207,Beverages,Energy Drink,Sting,50,35,270,SUP02
+P301,Snacks,Chips,Lays,30,20,120,SUP04
+P302,snacks,Biscuits,Britannia,35,24,180,SUP04
+P303,Snacks,Namkeen,Haldirams,60,42,150,SUP04
+P304,Snacks,Chocolate,DairyMilk,50,38,270,SUP05
+P305,snacks,Biscuits,Crispo,35,22,240,SUP06
+P306,Snacks,Nuts,Happilo,150,110,180,SUP04
+P330,Beverages,Soft Drink,FizzUp,50,31,180,SUP02
+P401,Staples,Rice,IndiaGate,320,265,365,SUP07
+P402,Staples,Wheat Flour,Aashirvaad,250,200,180,SUP07
+P403,Staples,Sugar,Dhampure,55,45,365,SUP07
+P404,Staples,Salt,TataSalt,25,18,730,SUP07
+P405,Staples,Cooking Oil,Fortune,175,140,365,SUP07
+P406,Staples,Dal Toor,TataSampann,140,110,180,SUP07
+P407,Staples,Rava,Sakthi,70,55,180,SUP07
+P442,Snacks,Biscuits,Crispo,35,22,240,SUP06
+P501,Personal Care,Soap,Lux,40,28,730,SUP08
+P502,Personal Care,Toothpaste,Colgate,95,68,730,SUP08
+P503,Personal Care,Face Wash,Himalaya,110,78,365,SUP08
+P504,Personal Care,Deodorant,Nivea,180,125,730,SUP08
+P505,Personal Care,Hand Wash,Dettol,75,52,365,SUP08
+P601,houseHOLD,Detergent,Surf,210,155,730,SUP09
+P602,Household,Dishwash,Vim,55,38,365,SUP09
+P603,Household,Floor Cleaner,Lizol,130,92,365,SUP09
+P604,Household,Toilet Cleaner,Harpic,95,65,365,SUP09
+P605,houseHOLD,Garbage Bags,Ezee,80,55,730,SUP09
+P701,Frozen Foods,Frozen Peas,Safal,85,60,180,SUP10
+P702,Frozen Foods,Ice Cream,Amul,120,80,90,SUP10
+P703,Frozen Foods,Frozen Paratha,McCain,95,68,120,SUP10
+P704,Frozen Foods,Chicken Nuggets,Zorabian,180,130,90,SUP10
+P801,Bakery,Bread,ModernBread,45,32,3,SUP11
+P802,Bakery,Cake,Britannia,60,42,7,SUP11
+P803,Bakery,Rusk,Britannia,50,35,90,SUP11
+P901,Beverages,Kombucha,BrewJoy,150,105,30,SUP12
+P902,Personal Care,Sunscreen,Neutrogena,350,250,365,SUP08
